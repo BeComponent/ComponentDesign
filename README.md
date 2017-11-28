@@ -1,5 +1,10 @@
 # Component Design
 
+##### Resources slides
+
+https://github.com/russellgoldenberg/scrollama
+
+
 ##### Resources
 
 - [x] [6 reasons component based UI Development](https://www.tandemseven.com/technology/6-reasons-component-based-ui-development/)
