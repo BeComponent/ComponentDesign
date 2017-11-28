@@ -8,6 +8,8 @@ Fonctionnalités :
   - Projets et ses contributeurs
   - Formulaire de soumission de projet
   
+Dialogue :
+  
 - J'ai fait une appli pour répertorier un projet inutile (donc un dispensable) qui s'appellerait __Best of Useless__.
   Problème : 
     - 2 composants listes => 1 composant générique qui prend en entrée un composant item de liste (projet, profil)
