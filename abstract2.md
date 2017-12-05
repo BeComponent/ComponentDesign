@@ -2,7 +2,7 @@ Titre de la conf
 ===
 Quand Perceval et Karadoc se lancent dans le développement d'application Front
 
-Le développement d'application Front par Perceval et Karadoc
+Le développement d'application Front par Perceval et Karadoc : Bottes secretes et colifichets
 
 Abstract
 ===
