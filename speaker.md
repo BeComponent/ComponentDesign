@@ -1,10 +1,18 @@
-Corentin
+Coco
 ========
 
-Développeur Web chez Zenika Rennes, ce que j'aime c'est découper, que ce soit du front ou du back j'adore les petites briques que l'on peut assembler dans tous les sens.
+Experience
+__________
+
+Durant ma première année de consultant chez Zenika, j'ai eu l'occasion d'intervenir chez différents clients sur des missions de développement web, principalement côté Front sur des technos telles que AngularJs, Angular et Vue. Cette expérience m'a permis de donner des formations sur Angular ainsi que des matinales sur l'état de l'art du web au côté de Benjamin Plouzennec pour différents clients. Depuis peu, je m'interesse également au développement NodeJs et aux architectures micro-service.
+
+Description
+___________
+
+Développeur Web chez Zenika Rennes, d'abord attiré par le développement FrontEnd, je m'intéresse particulièrement à l'expérience utilisateur ainsi qu'à la création d'interfaces créatives et intuitives. Depuis peu j'aime également découper, que ce soit du front ou du back j'adore faire des petites briques que l'on peut assembler dans tous les sens. 
 
 Benj
-===
+====
 
 Experience
 ----------
