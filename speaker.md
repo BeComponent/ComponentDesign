@@ -23,6 +23,7 @@ Experience
  - Formateur Angular (JS & <2) / React / Javascript 
  - Comment bien choisir son framework javascript ? (Matinale sur Rennes + présenté chez plusieurs clients)
 Description
+ - Bouge tes fesses avec MoJS (NantesJS, Janvier 2018)
 
 -----------
 Créatif dans l’âme, je touche un peu à tout : Musique, dessins… Je me suis vite tourné vers le développement web, plus précisément front-end et je suis devenu accro de l’univers Javascript. En poste de développeur/formateur front-end chez Zenika je m’investi dans le monde du web où je m’amuse à développer des outils originaux tels que Rythm.js (https://okazari.github.io/Rythm.js/).
