@@ -27,7 +27,7 @@ Experience
 ----------
 
 - Réconcilions Web & Audio (RivieraDev 2017)
-- Serious game sur les sujets Devops à l’agile tour Rennes et l'agile tour LeMans. (avec Sylvain Revereault / Serge Hardy, Titre : "DevOps Game"). 
+- DevOps Game (Agile tour Rennes/LeMans). 
 - Il était une fois un plug-in atom... (RennesJS, Bdx.io 2017, https://www.youtube.com/watch?v=9pRj4bC-jQQ)
 - Formateur Angular (JS & <2) / React / Javascript 
 - Comment bien choisir son framework javascript ? (Matinale sur Rennes + présenté chez plusieurs clients)
