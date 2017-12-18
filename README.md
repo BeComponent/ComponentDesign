@@ -88,7 +88,7 @@ MVC vs CBA => MVC split responsabilities **horizontally** whereas CBA split them
 - [x] [Higher Order Component](http://putaindecode.io/fr/articles/js/react/higher-order-component/)
 - [ ] [React patterns](https://www.youtube.com/watch?v=BJdg56yrG84)
 - [ ] [Atomic Design, Brad Frost, InVision](https://www.invisionapp.com/blog/design-systems-brad-frost/?utm_campaign=Weekly%20Digest&utm_source=hs_email&utm_medium=email&utm_content=58639578&_hsenc=p2ANqtz-_wcWXY18-ISf4e90cwWNJizvQQ5-y1wcTdEkcikPvk0ti8Uk9LMtWnbY0wbndDUJrdtAmIyRZ2cI1g6DJYuddzDAnJhSZjEg0Ns0ilghr7EKqPNSI&_hsmi=58639580) 
-
+- [ ] https://twitter.com/Real_CSS_Tricks/status/942424145517842433
 
 ## 💡Idea
 
