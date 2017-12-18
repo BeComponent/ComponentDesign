@@ -17,14 +17,13 @@ Benj
 Experience
 ----------
 
-J'ai joué cette conférence au RivieraDev 2017
-J'ai mené conjointement (avec Sylvain Revereault / Serge Hardy) des Serious game sur les sujets Devops à l’agile tour Rennes et l'agile tour LeMans. (Titre : "DevOps Game"). 
-J'ai également donné un quickie au RennesJS sur la réalisation de plug-in atoms (il était une fois un plug-in atom...)
-Formateur Angular (JS & <2) / React / Javascript
-Formateur Angular / React / Javascript
-J'ai également présenté plusieurs fois la matinale sur "Comment bien choisir son framework javascript ?" à différents clients.
-
+ - Réconcilions Web & Audio (RivieraDev 2017)
+ - Serious game sur les sujets Devops à l’agile tour Rennes et l'agile tour LeMans. (avec Sylvain Revereault / Serge Hardy, Titre : "DevOps Game"). 
+ - Il était une fois un plug-in atom... (RennesJS, Bdx.io 2017)
+ - Formateur Angular (JS & <2) / React / Javascript 
+ - Comment bien choisir son framework javascript ? (Matinale sur Rennes + présenté chez plusieurs clients)
 Description
+
 -----------
 Créatif dans l’âme, je touche un peu à tout : Musique, dessins… Je me suis vite tourné vers le développement web, plus précisément front-end et je suis devenu accro de l’univers Javascript. En poste de développeur/formateur front-end chez Zenika je m’investi dans le monde du web où je m’amuse à développer des outils originaux tels que Rythm.js (https://okazari.github.io/Rythm.js/).
 
