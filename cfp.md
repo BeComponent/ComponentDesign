@@ -13,12 +13,12 @@ Coco
 Experience
 ----------
 
-Durant ma première année de consultant chez Zenika, j'ai eu l'occasion d'intervenir chez différents clients sur des missions de développement web, principalement côté Front sur des technos telles que AngularJs, Angular et Vue. Cette expérience m'a permis de donner des formations sur Angular ainsi que des matinales sur l'état de l'art du web au côté de Benjamin Plouzennec pour différents clients. Depuis peu, je m'interesse également au développement NodeJs et aux architectures micro-service.
+Durant mes premières années de consultant chez Zenika, j'ai eu l'occasion d'intervenir chez différents clients sur des missions de développement web, principalement côté Front sur des technos telles que AngularJs, Angular et Vue. Cette expérience m'a permis de donner des formations sur Angular ainsi que des matinales sur l'état de l'art du web au côté de Benjamin Plouzennec pour différents clients. Depuis peu, je m'interesse également au développement NodeJs et aux architectures micro-service.
 
 Description
 -----------
 
-Développeur Web chez Zenika Rennes, d'abord attiré par le développement FrontEnd, je m'intéresse particulièrement à l'expérience utilisateur ainsi qu'à la création d'interfaces créatives et intuitives. Depuis peu j'aime également découper, que ce soit du front ou du back j'adore faire des petites briques que l'on peut assembler dans tous les sens. 
+Consultant Web chez Zenika Rennes avec l'étiquette de développeur FrontEnd, je m'intéresse particulièrement à l'expérience utilisateur ainsi qu'à la création d'interfaces créatives et intuitives. Pour les réaliser je me suis penché sur les frameworks web récents que sont Angular, React et Vue ainsi qu'à l'outillage et au différents patterns liés au développement avec ces technologies.
 
 Benj
 ====
