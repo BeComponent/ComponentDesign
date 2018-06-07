@@ -18,7 +18,7 @@ Durant mes premières années de consultant chez Zenika, j'ai eu l'occasion d'in
 Description
 -----------
 
-Consultant Web chez Zenika Rennes avec l'étiquette de développeur FrontEnd, je m'intéresse particulièrement à l'expérience utilisateur ainsi qu'à la création d'interfaces créatives et intuitives. Pour les réaliser je me suis penché sur les frameworks web récents que sont Angular, React et Vue ainsi qu'à l'outillage et au différents patterns liés au développement avec ces technologies.
+Consultant Web chez Zenika Rennes avec l'étiquette de développeur FrontEnd, je m'intéresse particulièrement à l'expérience utilisateur ainsi qu'à la création d'interfaces créatives et intuitives. Pour les réaliser je me suis penché sur les frameworks web récents que sont Angular, React et Vue ainsi qu'à l'outillage et au différents patterns liés aux développement avec ces technologies.
 
 Benj
 ====
